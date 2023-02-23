@@ -1,0 +1,16 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(QuinqueFive.ttf);
+}
+
+.main {
+    margin: 0 auto;
+    text-align: center;
+}
+
+canvas {
+    border: 2px solid rgb(55, 50, 50);
+    border-radius: 10px;
+    background-color: bisque;
+    margin: 0 auto;
+}

@@ -1,8 +1,6 @@
 
 # Keyboard game - falling letters
 
-A brief description of what this project does and who it's for
-
 A simple falling letters game based on Canvas. Three difficulty levels can be set. Changing each difficulty level can be done in the "difficulty.ts" file. 
 
 
